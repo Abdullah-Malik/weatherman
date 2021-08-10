@@ -192,7 +192,7 @@ class ResultProcessor:
                 print("Lowest: " + str(results["min_temp"]) + "C on " + self.get_day(results["min_day"]))
                 print("Humidity: " + str(results["max_humidity"]) + "% on " + self.get_day(results["humid_day"]))
 
-
+#adding a comment
  
 if __name__ == "__main__":
     weather_readings = {}
